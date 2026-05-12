@@ -1,0 +1,15 @@
+node_modules/
+.next/
+.env
+.env.local
+*.log
+.DS_Store
+/migration-output/
+/.firecrawl/
+/media/
+/dist/
+
+# Local agent/IDE config — may contain tokens or per-machine prefs
+.claude/
+.mcp.json
+.vercel/
